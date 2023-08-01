@@ -26,5 +26,19 @@
     "title": "beanerz_site",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "currents.html",
+    "href": "currents.html",
+    "title": "Currents",
+    "section": "",
+    "text": "Video"
+  },
+  {
+    "objectID": "currents.html#anim-gif",
+    "href": "currents.html#anim-gif",
+    "title": "Currents",
+    "section": "Anim gif",
+    "text": "Anim gif"
   }
 ]
