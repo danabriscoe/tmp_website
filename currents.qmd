@@ -8,4 +8,8 @@ author: "Dana K Briscoe"
 ![](docs/images/dbriscoe_animation_turtles_sst_with_17C_contour.mp4)
 
 ## Anim gif
+This is text that describes the animation
+
 ![](docs/images/dbriscoe_animation_turtles_sst_with_17C_contour.gif)
+
+Here is additional text...
