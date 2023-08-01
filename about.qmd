@@ -9,4 +9,4 @@ title: "About"
 ```
 
 ## BFFs
-![](images/Tom_and_Betty_pic.jpeg)
+![](docs/images/Tom_and_Betty_pic.jpeg)
