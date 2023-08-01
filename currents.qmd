@@ -4,8 +4,8 @@ author: "Dana K Briscoe"
 ---
 
 
-## Currents for Turtle #17
-![](docs/images/dbriscoe_stretch_turtle17_hauoli_surface_currents_vectors.gif)
+## Anim mp4
+![](docs/images/dbriscoe_animation_turtles_sst_with_17C_contour.mp4)
 
-## Surface Flow for #17
-![](docs/images/hauoli_surface_currents.gif)
+## Anim gif
+![](docs/images/dbriscoe_animation_turtles_sst_with_17C_contour.gif)
