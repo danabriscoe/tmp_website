@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+website:
+  title: "tmp_website"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+      - icon: instagram 
+        href: https://instagram.com/ 
+    
+  sidebar: 
+    style: "docked"
+    search: true
+    contents: 
+        - index.qmd
+        - about.qmd
+        - currents.qmd
+  page-footer: 
+    left: "Copyright 2021, Olive Bean" 
+    right: 
+      - icon: github
+        href: https://github.com/
+      - icon: twitter 
+        href: https://twitter.com/ 
+        
+  page-navigation: true
+  
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

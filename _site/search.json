@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#bffs",
+    "href": "about.html#bffs",
+    "title": "About",
+    "section": "BFFs",
+    "text": "BFFs"
+  },
+  {
+    "objectID": "currents.html#surface-flow-for-17",
+    "href": "currents.html#surface-flow-for-17",
+    "title": "Currents",
+    "section": "Surface Flow for #17",
+    "text": "Surface Flow for #17"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "beanerz_site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "About"
+---
+
+## About this site
+
+```{r}
+1 + 1
+```
+
+## BFFs
+![](images/Tom_and_Betty_pic.jpeg)
